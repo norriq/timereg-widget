@@ -7,4 +7,4 @@ it to the widget sandbox; it holds UI code and labels, never customer or time da
 Source, design spec and tests: `packages/timereg-widget/` in NORRIQ.ClaudeAi.Skills
 (Azure DevOps). Each version is a tag; tags are never moved.
 
-Current: `v1.0.1` — https://cdn.jsdelivr.net/gh/norriq/timereg-widget@v1.0.1/timereg-widget.min.js
+Current: `v1.0.2` — https://cdn.jsdelivr.net/gh/norriq/timereg-widget@v1.0.2/timereg-widget.min.js
